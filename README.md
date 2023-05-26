@@ -2,10 +2,10 @@
 
 A Flutter project that connect to an API to get the world time for every countries in the world.
 
-# What World Time app does
+# What world_time app does
 World time shows the current time of countries in the world, based on their location
 
-# Usefulness of World Time app:
+# Usefulness of world_time app:
 World time app can be used, if you have difficulties finding to know the current time of a specific state in a country.
 
 ## Getting Started
